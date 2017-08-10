@@ -1,0 +1,3 @@
+# Ruby Bytes
+
+Small pieces of reusable Ruby code that can be used in other Ruby applications.
